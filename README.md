@@ -1,12 +1,12 @@
-CID_229_Athena_Commando_F_DarkBomber, 1500
-CID_574_Athena_Commando_F_CubeRockerPunk, 2000
-EID_Wizard, 800
+CID_073_Athena_Commando_F_Scuba, 1500
+CID_344_Athena_Commando_M_IceCream, 2000
+EID_KingEagle, 800
 na
 na
 na
-MusicPack_032_GrooveJam, 500
-Pickaxe_ID_263_JonesyCube, 800
-Umbrella_Storm, 200
-Glider_ID_083_DarkBomber, 500
-Pickaxe_ID_306_PunkDevil, 800
-CID_586_Athena_Commando_F_PunkDevil, 1200
+MusicPack_002_Spooky, 500
+na
+na
+EID Floppy, 500
+Glider_ID_206_Donut, 1300
+Pickaxe_ID_015_HolidayCandyCane, 1200
